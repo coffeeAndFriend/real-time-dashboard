@@ -1,19 +1,19 @@
-# real-time-dashboard
-A real-time sales dashboard built with Python, Streamlit, and PostgreSQL
+# Inventory_dashboard
+A real-time inventory dashboard built with Python, Streamlit, and PostgreSQL
 
-This project is a **real-time sales dashboard** built with:
+This project is a **real-time inventory dashboard** built with:
 
 - 🐍 Python
 - 🌐 Streamlit
 - 🐘 PostgreSQL
 - 📈 Plotly Express
 
-It connects to a PostgreSQL database, loads sales data, and displays interactive charts that auto-refresh every 60 seconds.
+It connects to a PostgreSQL database, loads inventory data, and auto-refresh every 60 seconds.
 
 ## 📂 Files
 
 - `dashboard_app.py` – Main Streamlit dashboard
-- `simulate_data.py` – (Optional) Inserts fake sales into the database
+- `simulate_data.py` – (Optional) Inserts fake data into the database
 - `requirements.txt` – Python packages used
 
 ## To Run This Project
@@ -21,12 +21,5 @@ It connects to a PostgreSQL database, loads sales data, and displays interactive
 1. Clone this repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/real-time-dashboard.git
-   cd real-time-dashboard
+   cd Inventory-dashboard
    
-👉 Watch the full step-by-step instruction on YouTube: https://youtu.be/P7hCXO8ygnQ 
-Please like and subscribe! 
-
-☕ Support the channel : Buy Me a Coffee: https://buymeacoffee.com/datageekismyname
-Thank you for your support! 
-
-Happy Learning!
